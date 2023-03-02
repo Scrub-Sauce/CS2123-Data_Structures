@@ -1,0 +1,38 @@
+C:\Users\kylea\OneDrive\Documents\ANDERSON_Recitation01>rec01.exe
+
+Enter numbers in for conversion. If complete, enter a negative value to end the program.
+
+Enter Number : 9999999
+ERROR: Invalid Entry - Please enter an integer between 0 - 999,999.
+
+Enter Number : 0
+zero
+Enter Number : 5
+five
+Enter Number : 11
+elevin
+Enter Number : 23
+twenty three
+Enter Number : 200
+two hundred
+Enter Number : 158
+one hundred fifty eight
+Enter Number : 314
+three hundred fourteen
+Enter Number : 1729
+one thousand seven hundred twenty nine
+Enter Number : 51316
+fifty one thousand three hundred sixteen
+Enter Number : 14000
+fourteen thousand
+Enter Number : 901576
+nine hundred one thousand five hundred seventy six
+Enter Number : 714933
+seven hundred fourteen thousand nine hundred thirty three
+Enter Number : 600000
+six hundred thousand
+Enter Number : -1
+
+Program Complete
+
+C:\Users\kylea\OneDrive\Documents\ANDERSON_Recitation01>
